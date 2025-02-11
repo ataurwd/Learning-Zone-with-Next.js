@@ -59,7 +59,7 @@ const Navbar = () => {
 
                             <div className="flex flex-shrink-0 items-center">
                                 <h1 className="block h-12 w-40 lg:hidden">Learning</h1>
-                                <h1 className="hidden h-full w-full lg:block text-3xl font-bold">Learning</h1>
+                                <h1 className="hidden h-full w-full lg:block text-3xl font-bold text-[#222C44]">Learning</h1>
                             </div>
 
                             {/* LINKS */}

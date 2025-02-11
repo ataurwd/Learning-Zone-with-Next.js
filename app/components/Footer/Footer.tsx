@@ -61,7 +61,7 @@ const footer = () => {
 
                 <div className='sm:col-span-6 lg:col-span-5'>
                     <div className="flex flex-shrink-0 items-center border-right">
-                        <Image src="/assets/logo/logo.svg" alt="logo" width={214} height={66} />
+                    <h1 className="block h-12 w-40 text-3xl font-bold text-[#222C44]">Learning</h1>
                     </div>
                     <h3 className='text-xs font-medium text-gunmetalgray lh-160 mt-5 mb-4 lg:mb-16'> Open an account in minutes, get full financial <br /> control for much longer.</h3>
                     <div className='flex gap-4'>
