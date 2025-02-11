@@ -3,7 +3,7 @@ import Image from 'next/image';
 const Banner = () => {
 
     return (
-        <div id="home-section" className='bg-lightkblue'>
+        <div id="home-section" className='bg-'>
             <div className="mx-auto max-w-7xl pt-20 sm:pb-24 px-6">
 
                 <div className='grid grid-cols-1 lg:grid-cols-12 space-x-1'>
@@ -42,7 +42,7 @@ const Banner = () => {
                     </div>
 
                     <div className='col-span-6 flex justify-center'>
-                        <Image src="/assets/banner/mahila.png" alt="nothing" width={1000} height={805} />
+                        <Image src="/assets/banner/Learning.gif" alt="nothing" width={1000} height={805} />
                     </div>
                 </div>
             </div>
